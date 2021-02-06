@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(19, 17, 17);
+    font-family: 'Courier New', Courier, monospace, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    color: rgb(245, 238, 238);
+}
+
+.main-container {
+    height: 180px;
+    width: 680px;
+    background-color: rgb(23, 24, 24);
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-top: 20px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+
+.main-img {
+    margin-left: 20px;
+    height: 150px;
+    width: 150px;
+    margin-right: 40px;
+}
+
+.main-subtitle {
+    font-size: 18px;
+    color: rgb(236, 233, 68);
+    margin-bottom: 10px;
+}
+
+.main-symbol {
+    color: rgb(165, 169, 172);
+}
